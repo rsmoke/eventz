@@ -1,24 +1,7 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# This code is from [PragmaticStudios tutorials courses](https://online.pragmaticstudio.com/). Specifically the Rails 7 course.
+* Load Ruby
+* Load Rails
+* Bundle Install
+* Rails db:create
+* Rails db:migrate
+* Rails db:seed
