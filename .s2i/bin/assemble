@@ -1,4 +1,5 @@
 #!/bin/bash 
+rm -rf /tmp/src/bin
 # geminstall
 gem install bundler:2.3.23
 source /usr/libexec/s2i/assemble
